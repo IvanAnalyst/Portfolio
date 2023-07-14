@@ -6,7 +6,7 @@
 ## Project 2: [Financial Statements KPI Analysis](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/Web%20Link.md)
 &nbsp;&nbsp;&nbsp;&nbsp;In this project I have created a dynamic dashboard of the S&P500 companies' annual Balance sheets and Income statements for the years 2017-2022 using python and Power BI. Below you can see the HTML version of the dashboard (for a web version you can click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/Web%20Link.md)):
 
-<iframe title="Statements" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Statements" width="100%" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The dashboard contains 2 filters: by ticker symbol (company) and report year. The data dynamically updates and computes financial KPI's:
 * **Profitability ratios:** Gross Margin (%), Net Profit Margin (%), Operating Margin, Return On Assets, Return On Equity
