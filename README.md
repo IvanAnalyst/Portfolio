@@ -1,7 +1,7 @@
 # Kucherov Ivan portfolio projects. [Web version](https://ivananalyst.github.io/My-projects/)
 ## Project 1: [Cryptocurrency Dashboard]()
-<iframe title="Report Section" width="100%" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-&nbsp;&nbsp;&nbsp;&nbsp;You can view the web version of the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9).
+<iframe title="Crypto" width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9&pageName=ReportSection9edffdc430068198add0" frameborder="0" allowFullScreen="true"></iframe>
+&nbsp;&nbsp;&nbsp;&nbsp;You can view the web version of the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9&pageName=ReportSection9edffdc430068198add0).
 
 ## Project 2: [ML stock price prediction](https://github.com/IvanAnalyst/My-projects/blob/main/ML%20stock%20price%20prediction/ML%20stock%20price%20prediction.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;In this project I have created a flexible predictive neural network model with LSTM (Long Short Term Memory) layers using python (Jupyter notebook) to predict stock prices. \
