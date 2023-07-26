@@ -1,5 +1,7 @@
 # Kucherov Ivan portfolio projects. [Web version](https://ivananalyst.github.io/My-projects/)
 
+You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com)
+
 ## Project 1: [Cryptocurrency Dashboard](https://github.com/IvanAnalyst/My-projects/tree/main/Cryptocurrency%20Dashboard)
 
 <iframe title="Crypto" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9&pageName=ReportSection09cb5f6280a8a47b0239" frameborder="0" allowFullScreen="true"></iframe>  
