@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really enjoy mathematics, programming and their applications. Below you can see all my current projects, which have been created for financial applications. Nevertheless, most of the methodologies used in these projects can be generalized to other use cases. The primary tools used are Python, Power BI and Excel. \
 &nbsp;&nbsp;&nbsp;&nbsp;You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
-&nbsp;&nbsp;&nbsp;&nbsp;To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 ## Project 1: [Cryptocurrency Dashboard](https://github.com/IvanAnalyst/My-projects/tree/main/Cryptocurrency%20Dashboard)
 
 <iframe title="Crypto" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9&pageName=ReportSection09cb5f6280a8a47b0239" frameborder="0" allowFullScreen="true"></iframe>  
