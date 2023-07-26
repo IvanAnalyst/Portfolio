@@ -1,7 +1,7 @@
 # Kucherov Ivan portfolio projects. [GitHub profile](https://github.com/IvanAnalyst)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really enjoy mathematics, programming and their applications. Below you can see all my current projects, which have been created for financial applications. Nevertheless, most of the methodologies used in these projects can be generalized to other use cases. The primary tools used are Python, Power BI and Excel. \
-&nbsp;&nbsp;&nbsp;&nbsp;You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
 &nbsp;&nbsp;&nbsp;&nbsp;To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 ## Project 1: [Cryptocurrency Dashboard](https://github.com/IvanAnalyst/My-projects/tree/main/Cryptocurrency%20Dashboard)
 
