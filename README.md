@@ -39,11 +39,11 @@
 
 # Project 4: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
 
-&nbsp;&nbsp;&nbsp;&nbsp;In this project I have analyzed a [ 2019 AppStore dataset](https://www.kaggle.com/datasets/harshaheera/appstore) from Kaggle using SQL ([SQLite Online](https://sqliteonline.com/)). \
+&nbsp;&nbsp;&nbsp;&nbsp;In this project I have analyzed a [ 2019 AppStore dataset](https://www.kaggle.com/datasets/harshaheera/appstore) from Kaggle using SQL ([SQLite Online](https://sqliteonline.com/)). You can see the full SQL code [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql). \
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data from csv files into the SQLite Cloud. Then, I performed Exploratpry Data Analysis to see if the data contains any missing values both between tables and in some of the key fields. I also answered some basic questions about the dataset, like "What are the top 5 app genres in terms of %?" and "What are the descriptive statistics of the user ratings?". After that I went straight into data analytics. I had a couple of questions in mind that I wanted to answer. These questions are:
 * **Question 1:** Do paid apps have a higher rating than free ones on average?
 * **Question 2:** What are the bottom 5 categories in terms of average rating?
 * **Question 3:** Do apps with larger descriptions have a higher rating on average?
 * **Question 4:** What are the top 3 rated paid and free apps in each genre?  
 
-&nbsp;&nbsp;&nbsp;&nbsp;It turned out that paid apps do indeed outperform free ones on average. The bottom 5 categories turned out to be: Catalogs, Finance, Book, Navigation and Lifestyle in ascending order. There is also a positive correlation between the description length and average app rating. The answer to the 4th question is a big table, so I cannot retell it here. For that you will have to execute the code, which you can find [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql).
+&nbsp;&nbsp;&nbsp;&nbsp;It turned out that paid apps do indeed outperform free ones on average. The bottom 5 categories turned out to be: Catalogs, Finance, Book, Navigation and Lifestyle in ascending order. There is also a positive correlation between the description length and average app rating (used joins to answer this question). The answer to the 4th question is a big table, so I cannot retell it here. For that you will have to execute the code, which you can find [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql) (used window funstions and nested queries to answer this question).
