@@ -39,7 +39,7 @@
 
 # Project 4: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
 
-&nbsp;&nbsp;&nbsp;&nbsp;In this project I have analyzed a [ 2019 AppStore dataset](https://www.kaggle.com/datasets/harshaheera/appstore) from Kaggle using SQL ([SQLite Online](https://sqliteonline.com/)). You can see the full SQL code [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql). \
+&nbsp;&nbsp;&nbsp;&nbsp;In this project I have analyzed a [2017 AppStore dataset](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps) from Kaggle using SQL ([SQLite Online](https://sqliteonline.com/)). You can see the full SQL code [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql). \
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data from csv files into the SQLite Cloud. Then, I performed Exploratpry Data Analysis to see if the data contains any missing values both between tables and in some of the key fields. I also answered some basic questions about the dataset, like "What are the top 5 app genres in terms of %?" and "What are the descriptive statistics of the user ratings?". After that I went straight into data analytics. I had a couple of questions in mind that I wanted to answer. These questions are:
 * **Question 1:** Do paid apps have a higher rating than free ones on average?
 * **Question 2:** What are the bottom 5 categories in terms of average rating?
