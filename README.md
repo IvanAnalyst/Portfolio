@@ -55,7 +55,7 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 
 &nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the following table:
 
-<div align="center">
+<div class="center-table" markdown>
 
   | Metric            | Value              |
   | ----------------- | ------------------ |
