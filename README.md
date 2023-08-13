@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love applied mathematics and coding. Below you can see all my current portfolio projects. The main tools used are Python, Power BI and SQL. \
 &nbsp;&nbsp;&nbsp;&nbsp;You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
 &nbsp;&nbsp;&nbsp;&nbsp;To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/ivankucherov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ivankucherov" height="30" width="40" /></a>
