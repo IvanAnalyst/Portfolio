@@ -54,9 +54,7 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 * **Model 5:** [Multi-Layer Perceptron Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier). I took inspiration from the methods listed on the [sklearn webpage](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) and this one caught my eye. It also took a while to train, but it was definitely worth it  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the following table:
-
 <div align="center">
-
 | Metric            | Value              |
 | ----------------- | ------------------ |
 | Accuracy          | 0.9997097663619213 |
@@ -66,7 +64,6 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 | NPV               | 0.9998546828453099 |
 | Balanced Accuracy | 0.9472957624752865 |
 | F-score           | 0.8947368421052632 |
-
 </div>
 
 # Project 5: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
