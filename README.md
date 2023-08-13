@@ -45,26 +45,25 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 
 # Project 4: [Credit Card Fraud Detection](https://github.com/IvanAnalyst/My-projects/tree/main/Credit%20Card%20Fraud%20Detection).
 
-&nbsp;&nbsp;&nbsp;&nbsp;I have created a binary classification model in python to detect whether a given transaction is fraudulent or not. I used a [Kaggle dataset](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud), which contained censored information (principal components were given insted of the actual features) on credit card transactions made in 2013. You can find the full code [here](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb) \
-
+&nbsp;&nbsp;&nbsp;&nbsp;I have created a binary classification model in python to detect whether a given transaction is fraudulent or not. I used a [Kaggle dataset](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud), which contained censored information (principal components were given insted of the actual features) on credit card transactions made in 2013. You can find the full code [here](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data, performed exploratory data anaysis and prepared the data for preprocessing. I reshaped one feature, randomized the order of the points in the sample and split the data into train, test and validation subsamples (90%-5%-5%). I proceeded to implement model metrics that would be later used to compare various models. I then created the following binary classification models:
 * **Model 1:** [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html). This is a go-to econometric model when it comes to binary classification
 * **Model 2:** [Linear Support Vector Classification](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC). It is the most common ML approach to binary classification problems
 * **Model 3:** [K-Nearest Neighbours](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier). Another popular method that is usually used to classify points into many groups, yet performed surprisingly well on test data
 * **Model 4:** [AdaBoost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier). I wanted to see if an ensemble technique would work better than other models. It took a the longest time to train and performed badly for such a long waiting time
-* **Model 5:** [Multi-Layer Perceptron Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier). I took inspiration from the methods listed on the [sklearn webpage](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) and this one caught my eye. It also took a while to train, but it was definitely worth it
+* **Model 5:** [Multi-Layer Perceptron Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier). I took inspiration from the methods listed on the [sklearn webpage](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) and this one caught my eye. It also took a while to train, but it was definitely worth it  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the following table:
 
-                                                    | Metric            | Value              |
-                                                    | ----------------- | ------------------ |
-                                                    | Accuracy          | 0.9997097663619213 |
-                                                    | Recall            | 0.8947368421052632 |
-                                                    | Specificity       | 0.9998546828453099 |
-                                                    | Precision         | 0.8947368421052632 |
-                                                    | NPV               | 0.9998546828453099 |
-                                                    | Balanced Accuracy | 0.9472957624752865 |
-                                                    | F-score           | 0.8947368421052632 |
+  | Metric            | Value              |
+  | ----------------- | ------------------ |
+  | Accuracy          | 0.9997097663619213 |
+  | Recall            | 0.8947368421052632 |
+  | Specificity       | 0.9998546828453099 |
+  | Precision         | 0.8947368421052632 |
+  | NPV               | 0.9998546828453099 |
+  | Balanced Accuracy | 0.9472957624752865 |
+  | F-score           | 0.8947368421052632 |
 
 # Project 5: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
 
