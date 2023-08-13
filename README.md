@@ -53,7 +53,7 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 * **Model 4:** [AdaBoost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier). I wanted to see if an ensemble technique would work better than other models. It took a the longest time to train and performed badly for such a long waiting time
 * **Model 5:** [Multi-Layer Perceptron Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier). I took inspiration from the methods listed on the [sklearn webpage](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) and this one caught my eye. It also took a while to train, but it was definitely worth it  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the following table:
+&nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the table below:
 
 | Metric            | Value              |
 | ----------------- | ------------------ |
