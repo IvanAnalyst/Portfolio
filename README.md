@@ -56,15 +56,17 @@ To view my CV (in Russian) click [here](https://github.com/IvanAnalyst/My-projec
 &nbsp;&nbsp;&nbsp;&nbsp;Model 5 turned out to be the best one in terms of the implemented metrics. I retrained this model on the train and test subsamples combined and evaluated its performance on the validation subsample. The final metrics can be summed up with the following table:
 
 <div align="center">
-| Metric            | Value              |
-| ----------------- | ------------------ |
-| Accuracy          | 0.9997097663619213 |
-| Recall            | 0.8947368421052632 |
-| Specificity       | 0.9998546828453099 |
-| Precision         | 0.8947368421052632 |
-| NPV               | 0.9998546828453099 |
-| Balanced Accuracy | 0.9472957624752865 |
-| F-score           | 0.8947368421052632 |
+
+  | Metric            | Value              |
+  | ----------------- | ------------------ |
+  | Accuracy          | 0.9997097663619213 |
+  | Recall            | 0.8947368421052632 |
+  | Specificity       | 0.9998546828453099 |
+  | Precision         | 0.8947368421052632 |
+  | NPV               | 0.9998546828453099 |
+  | Balanced Accuracy | 0.9472957624752865 |
+  | F-score           | 0.8947368421052632 |
+
 </div>
 
 # Project 5: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
