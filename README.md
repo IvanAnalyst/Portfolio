@@ -1,4 +1,4 @@
-# Kucherov Ivan Portfolio Projects
+<h1 align="center"> Kucherov Ivan Portfolio Projects</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love applied mathematics and coding. Below you can see all my current portfolio projects. The main tools used are Python, Power BI and SQL.
 
