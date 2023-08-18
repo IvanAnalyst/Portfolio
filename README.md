@@ -83,3 +83,5 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 * **Question 4:** What are the top 3 rated paid and free apps in each genre?  
 
 &nbsp;&nbsp;&nbsp;&nbsp;It turned out that paid apps do indeed outperform free ones on average. The bottom 5 categories turned out to be: Catalogs, Finance, Book, Navigation and Lifestyle in ascending order. There is also a positive correlation between the description length and average app rating (used joins to answer this question). The answer to the 4th question is a big table, so I cannot retell it here. For that you will have to execute the code, which you can find [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql) (used window funstions and nested queries to answer this question).
+
+---
