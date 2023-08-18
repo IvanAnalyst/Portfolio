@@ -35,7 +35,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 ---
 
-# Project 2: [ML Stock Price Prediction](https://github.com/IvanAnalyst/My-projects/tree/main/ML%20Stock%20Price%20Prediction) [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/ML%20Stock%20Price%20Prediction/ML%20Stock%20Price%20Prediction.ipynb)
+# Project 2: [ML Stock Price Prediction](https://github.com/IvanAnalyst/My-projects/tree/main/ML%20Stock%20Price%20Prediction)   [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/ML%20Stock%20Price%20Prediction/ML%20Stock%20Price%20Prediction.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have created a flexible predictive neural network model with LSTM (Long Short Term Memory) layers using python to predict stock prices. \
 &nbsp;&nbsp;&nbsp;&nbsp;Firstly, I got a list of all NASDAQ exchange traded ticker symbols using [yahoo_fin](https://github.com/atreadw1492/yahoo_fin), because of the difficulties with retrieving this info with [yfinance](https://github.com/ranaroussi/yfinance). Then I dropped the symbols that would not have contained enough data for comparative analysis. I sampled 10 random ticker symbols from the filtered list (I used a random seed so that all results can be reproduced) and using the [Yahoo!Finance's API](https://github.com/ranaroussi/yfinance) gathered daily Adjusted Close prices for each of the tickers from 2018-01-02 to 2023-06-30. I split the sample into training (80% of the sample) and test (20% of the sample) subsamples. Training data is used to tune model parameters, while the testing subsample is left for performance valuation. The model is trained using labeled data: it predicts the Adjusted Close price one day into the future based on 60 previous days (both values can be changed in the model). The performance is evaluated using RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error). If we consider a 5% upper bound on MAPE as a critical point of model rejection, then all 10 stock forecasts are of desirable accuracy, since their MAPE's are below 5% on test data, while many are even below 2%. The accuracy results can be seen below:
@@ -46,9 +46,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 ---
 
-# Project 3: [Financial Statements KPI Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/Financial%20Statements%20KPI%20Analysis)
-
-[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/SimFin%20API.ipynb)
+# Project 3: [Financial Statements KPI Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/Financial%20Statements%20KPI%20Analysis)   [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/SimFin%20API.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have created a dynamic dashboard of the S&P500 companies' annual Balance sheets and Income statements for the years 2017-2022 using python and Power BI. Below you can find the HTML version of the dashboard (for a web version you can click [here](https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9)):
 
@@ -64,9 +62,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 ---
 
-# Project 4: [Credit Card Fraud Detection](https://github.com/IvanAnalyst/My-projects/tree/main/Credit%20Card%20Fraud%20Detection)
-
-[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb)
+# Project 4: [Credit Card Fraud Detection](https://github.com/IvanAnalyst/My-projects/tree/main/Credit%20Card%20Fraud%20Detection)   [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="Python code">](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have created a binary classification model in python to detect whether a given transaction is fraudulent or not. I used a [Kaggle dataset](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud), which contained censored information (principal components were given instead of the actual features) on credit card transactions made in 2013. To view this project on Kaggle click [here](https://www.kaggle.com/code/ivankucherov/credit-card-fraud-detection). \
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data, performed exploratory data analysis (EDA) and prepared the data for preprocessing. I reshaped one feature, randomized the order of the points in the sample and split the data into train, test and validation subsamples (90%-5%-5%). I proceeded to implement model metrics that would be later used to compare various models. I then created the following binary classification models:
