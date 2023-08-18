@@ -2,7 +2,7 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love applied mathematics and coding. Below you can see all my current portfolio projects.
 
-<h3 align="left">Main Skills:</h3>
+<h3 align="left">Main Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="37" height="40"/> </a>
