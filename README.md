@@ -49,6 +49,8 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 # Project 3: [Financial Statements KPI Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/Financial%20Statements%20KPI%20Analysis)
 
+[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30>](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/SimFin%20API.ipynb "Python code")
+
 &nbsp;&nbsp;&nbsp;&nbsp;I have created a dynamic dashboard of the S&P500 companies' annual Balance sheets and Income statements for the years 2017-2022 using python and Power BI. Below you can find the HTML version of the dashboard (for a web version you can click [here](https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9)):
 
 <iframe title="Statements" width="100%" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
@@ -65,7 +67,9 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 # Project 4: [Credit Card Fraud Detection](https://github.com/IvanAnalyst/My-projects/tree/main/Credit%20Card%20Fraud%20Detection)
 
-&nbsp;&nbsp;&nbsp;&nbsp;I have created a binary classification model in python to detect whether a given transaction is fraudulent or not. I used a [Kaggle dataset](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud), which contained censored information (principal components were given instead of the actual features) on credit card transactions made in 2013. You can find the full code [here](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb). To view this project on Kaggle click [here](https://www.kaggle.com/code/ivankucherov/credit-card-fraud-detection). \
+[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30>](https://github.com/IvanAnalyst/My-projects/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb "Python code")
+
+&nbsp;&nbsp;&nbsp;&nbsp;I have created a binary classification model in python to detect whether a given transaction is fraudulent or not. I used a [Kaggle dataset](https://www.kaggle.com/datasets/joebeachcapital/credit-card-fraud), which contained censored information (principal components were given instead of the actual features) on credit card transactions made in 2013. To view this project on Kaggle click [here](https://www.kaggle.com/code/ivankucherov/credit-card-fraud-detection). \
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data, performed exploratory data analysis (EDA) and prepared the data for preprocessing. I reshaped one feature, randomized the order of the points in the sample and split the data into train, test and validation subsamples (90%-5%-5%). I proceeded to implement model metrics that would be later used to compare various models. I then created the following binary classification models:
 * **Model 1:** [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html). This is a go-to econometric model when it comes to binary classification
 * **Model 2:** [Linear Support Vector Classification](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC). It is the most common ML approach to binary classification problems
