@@ -15,7 +15,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/ivankucherov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ivankucherov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="ivananalyst" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="ivananalyst" height="30" width="40" /></a>
 </p>
 
 # Project 1: [Cryptocurrency Dashboard](https://github.com/IvanAnalyst/My-projects/tree/main/Cryptocurrency%20Dashboard)
