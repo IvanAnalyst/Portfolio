@@ -8,6 +8,7 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="37" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="power_bi" width="40" height="40"/> </a>
   <a href="https://sqliteonline.com/" target="_blank" rel="noreferrer"> <img src="https://ik.imagekit.io/kodingclub/freestuffdev/stuff/sqliteonline_N6a33SuCQ.png?updatedAt=1627081136295" alt="SQLite online" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
