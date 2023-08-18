@@ -50,7 +50,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 # Project 3: [Financial Statements KPI Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/Financial%20Statements%20KPI%20Analysis)
 
-Code: [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30>](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/SimFin%20API.ipynb)
+[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30>](https://github.com/IvanAnalyst/My-projects/blob/main/Financial%20Statements%20KPI%20Analysis/SimFin%20API.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have created a dynamic dashboard of the S&P500 companies' annual Balance sheets and Income statements for the years 2017-2022 using python and Power BI. Below you can find the HTML version of the dashboard (for a web version you can click [here](https://app.powerbi.com/view?r=eyJrIjoiMDcyNWM2NTQtZDMwMi00YjdiLTllMDgtYzg3ZmZkYWRmNzhlIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9)):
 
