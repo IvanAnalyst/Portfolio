@@ -5,7 +5,7 @@
 <h3 align="left">Main Skills:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="35" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="37" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="power_bi" width="40" height="40"/> </a>
   <a href="https://sqliteonline.com/" target="_blank" rel="noreferrer"> <img src="https://ik.imagekit.io/kodingclub/freestuffdev/stuff/sqliteonline_N6a33SuCQ.png?updatedAt=1627081136295" alt="SQLite online" width="40" height="40"/> </a>
 </p>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/ivankucherov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ivankucherov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="ivananalyst" height="40" width="35" /></a>
+<a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="ivananalyst" height="40" width="40" /></a>
 </p>
 
 You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
