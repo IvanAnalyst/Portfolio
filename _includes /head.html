@@ -13,6 +13,15 @@ seo.html
   rel="alternate"
   title="{{ site.title }} Feed"
 />
+<script>
+  document.documentElement.className =
+    document.documentElement.className.replace(
+      /\bno-js\b/g,
+      ""
+    ) +
+    " js ";
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/assets/logo.ico/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/assets/logo.ico/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/assets/logo.ico/apple-icon-72x72.png">
@@ -30,3 +39,50 @@ seo.html
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+{%
+if
+site.head_scripts
+%}
+{%
+for
+script
+in
+site.head_scripts
+%}
+{%
+if
+script
+contains
+"://"
+%}
+{%
+capture
+script_path
+%}{{
+script
+}}{%
+endcapture
+%}
+{%
+else
+%}
+{%
+capture
+script_path
+%}{{
+script
+|
+relative_url
+}}{%
+endcapture
+%}
+{%
+endif
+%}
+<script src="{{ script_path }}"></script>
+{%
+endfor
+%}
+{%
+endif
+%}
