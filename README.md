@@ -1,4 +1,7 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 <h1 align="center"> Kucherov Ivan Portfolio Projects</h1>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love applied mathematics and coding. Below you can see all my current portfolio projects.
