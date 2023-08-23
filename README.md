@@ -81,7 +81,8 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 
 ---
 
-# Project 5: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis)
+# Project 5: [AppStore Dataset Analysis](https://github.com/IvanAnalyst/My-projects/tree/main/AppStore%20Data%20Analysis) [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width=30 height=30 title="SQL code">](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have analyzed a [2017 AppStore dataset](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps) from Kaggle using SQL ([SQLite Online](https://sqliteonline.com/)). You can find the full SQL code [here](https://github.com/IvanAnalyst/My-projects/blob/main/AppStore%20Data%20Analysis/AppStore_project.sql). \
 &nbsp;&nbsp;&nbsp;&nbsp;I loaded the data from csv files into the SQLite Cloud. Then, I performed exploratpry data analysis (EDA) to see if the data contains any missing values both between tables and in some of the key fields. I also answered some basic questions about the dataset, like "What are the top 5 app genres in terms of %?" and "What are the descriptive statistics of the user ratings?". After that I went straight into data analytics. I had a couple of questions in mind that I wanted to answer. These questions are:
