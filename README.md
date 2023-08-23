@@ -23,7 +23,7 @@ To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-pr
 ---
 
 # Project 1: [Cryptocurrency Dashboard](https://github.com/IvanAnalyst/My-projects/tree/main/Cryptocurrency%20Dashboard)
-<span style='color: blue;'>Type:</span> Data Analysis. <span style='color: blue;'>Skills:</span> Power BI
+<span style='color: red;'>Type:</span> Data Analysis <span style='color: red;'>Tools:</span> <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="power_bi" width="20" height="20"/> </a>
 
 <iframe title="Crypto" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODdmNmNlNzYtNWMzNi00YjhiLWE0MDAtODcwNzE3NTViZTA1IiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9&pageName=ReportSection09cb5f6280a8a47b0239" frameborder="0" allowFullScreen="true"></iframe>  
 
