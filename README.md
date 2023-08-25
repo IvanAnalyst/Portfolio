@@ -1,6 +1,6 @@
 <h1 align="center"> Kucherov Ivan Portfolio Projects</h1>
   
-&nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree in economics from the Financial University under the Government of the Russian Federation<a href="http://www.fa.ru/Pages/Home.aspx" target="_blank" rel="noreferrer"> <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/FinancialUniversityUnderRussianGovernment-logo.jpg" alt="FinUni" width="15" height="15"/> </a> and currently have almost finished my BSc Banking and Finance programme at the London School of Economics and Political Science<a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/1200px-LSE_Logo.svg.png" alt="LSE" width="15" height="15"/> </a>, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love mathematics, statistics and coding. Below you can see all my current portfolio projects.
+&nbsp;&nbsp;&nbsp;&nbsp;Greetings everyone! My name is Ivan, and I am an aspiring data analyst / data scientist. I have a bachelor’s degree 🎓 in economics from the Financial University under the Government of the Russian Federation<a href="http://www.fa.ru/Pages/Home.aspx" target="_blank" rel="noreferrer"> <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/FinancialUniversityUnderRussianGovernment-logo.jpg" alt="FinUni" width="15" height="15"/> </a> and currently have almost finished my BSc Banking and Finance programme at the London School of Economics and Political Science<a href="https://www.lse.ac.uk/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/1200px-LSE_Logo.svg.png" alt="LSE" width="15" height="15"/> </a>, so I have a background in economics and finance. In recent years I have gotten highly invested in the data analysis / data science fields, since I really love mathematics, statistics and coding. Below you can see all my current portfolio projects.
 
 <h3 align="left">Main Tools:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 <a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="ivananalyst" height="40" width="40" /></a>
 </p>
 
-You can contact me via email at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
+You can contact me via email 📧 at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
 To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 
 ---
