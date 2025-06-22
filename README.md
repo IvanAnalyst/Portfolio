@@ -3,7 +3,7 @@
 <h3 align="left">Main Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="37" height="40"/> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="37" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="power_bi" width="40" height="40"/> </a>
   <a href="https://public.tableau.com/app/profile/ivan.kucherov" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://sqliteonline.com/" target="_blank" rel="noreferrer"> <img src="https://ik.imagekit.io/kodingclub/freestuffdev/stuff/sqliteonline_N6a33SuCQ.png?updatedAt=1627081136295" alt="SQLite online" width="40" height="40"/> </a>
