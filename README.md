@@ -1,4 +1,4 @@
-<h1 align="center"><a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt="data science" width="30" height="30"/> </a> Kucherov Ivan Portfolio Projects<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="data analysis" width="30" height="30"/> </a> </h1>
+<h1 align="center">Kucherov Ivan Portfolio Projects </h1>
 
 <h3 align="left">Main Tools:</h3>
 <p align="left">
