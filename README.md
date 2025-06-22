@@ -17,7 +17,6 @@
 </p>
 
 You can contact me via email 📧 at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
-To view my resume (in Russian) click [here](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 
 ---
 
