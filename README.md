@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="ivananalyst" height="40" width="40" /></a>
 </p>
 
-You can contact me via email 📧 at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com) \
+You can contact me via email 📧 at [unequivocally.ivan@gmail.com](unequivocally.ivan@gmail.com)
 
 ---
 
